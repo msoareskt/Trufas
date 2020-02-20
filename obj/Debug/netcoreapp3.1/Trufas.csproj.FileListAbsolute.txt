@@ -9,3 +9,14 @@ C:\Users\etec\Desktop\Trufas\Trufas\obj\Debug\netcoreapp3.1\Trufas.AssemblyInfoI
 C:\Users\etec\Desktop\Trufas\Trufas\obj\Debug\netcoreapp3.1\Trufas.AssemblyInfo.cs
 C:\Users\etec\Desktop\Trufas\Trufas\obj\Debug\netcoreapp3.1\Trufas.dll
 C:\Users\etec\Desktop\Trufas\Trufas\obj\Debug\netcoreapp3.1\Trufas.pdb
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.exe
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.deps.json
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.runtimeconfig.json
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.runtimeconfig.dev.json
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.dll
+C:\Users\etec\Desktop\Trufas\bin\Debug\netcoreapp3.1\Trufas.pdb
+C:\Users\etec\Desktop\Trufas\obj\Debug\netcoreapp3.1\Trufas.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Trufas\obj\Debug\netcoreapp3.1\Trufas.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\Trufas\obj\Debug\netcoreapp3.1\Trufas.AssemblyInfo.cs
+C:\Users\etec\Desktop\Trufas\obj\Debug\netcoreapp3.1\Trufas.dll
+C:\Users\etec\Desktop\Trufas\obj\Debug\netcoreapp3.1\Trufas.pdb

@@ -6,7 +6,7 @@ namespace Trufas
     {
         static void Main(string[] args)
         {
-            VendasTrufa t = new VendasTrufa();
+            vendasTrufa t = new vendasTrufa();
 
             double userValorUnitario = 0;
             int userQtd = 0;
@@ -19,11 +19,11 @@ namespace Trufas
             Console.WriteLine("Informe a quantidade de trufas: ");
             userQtd = int.Parse(Console.ReadLine());
 
-            t.qtdd = userQtd;
+            t.qtd = userQtd;
             t.valorUnitario = userValorUnitario;
 
-            usercalcularValorTotal = t.calcularValorTotal();
-            usercalcularQtdAjustada = t.calcularQtdAjustada();
+            usercalcularValorTotal = t.calcular_Valor_Total();
+            usercalcularQtdAjustada = t.calcularQuantidadeAjustada();
 
 
             Console.Write("O valor de cada trufa é de R$ " + userValorUnitario + ", o valor total foi de R$" + usercalcularValorTotal + " e foram levadas " + usercalcularQtdAjustada);
@@ -34,35 +34,35 @@ namespace Trufas
 
 
 
-        public class VendasTrufa
+        public class vendasTrufa
         {
             public double valorUnitario = 0;
-            public int qtdd = 0;
+            public int qtd = 0;
 
 
-            public double calcularValorTotal()
+            public double calcular_Valor_Total()
             {
                 double valorTotal = 0;
 
-                valorTotal = valorUnitario * qtdd;
+                valorTotal = valorUnitario * qtd;
                 return valorTotal;
 
             }
 
-            public int calcularQtdAjustada()
+            public int calcularQuantidadeAjustada()
             {
-                int qtdAjustada = 0;
+                int qtdeAjustada = 0;
 
-                if (qtdd > 10)
+                if (qtd > 10)
                 {
-                    qtdAjustada = qtdd + 1;
+                    qtdeAjustada = qtd + 1;
                 }
                 else
                 {
-                    qtdAjustada = qtdd;
+                    qtdeAjustada = qtd;
                 }
 
-                return qtdAjustada;
+                return qtdeAjustada;
             }
         }
     }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Trufas\\Trufas\\Trufas.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Trufas\\Trufas.csproj",
       "projectName": "Trufas",
-      "projectPath": "C:\\Users\\etec\\Desktop\\Trufas\\Trufas\\Trufas.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\Trufas\\Trufas.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Desktop\\Trufas\\Trufas\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\Trufas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
